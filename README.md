@@ -1,3 +1,3 @@
 # git_test_repeat
 my first github repo
-Hello there Odin!
+Hello there Odin!Howdy!
